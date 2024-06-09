@@ -7,6 +7,7 @@ public static void main(String[] args) {
      
 
      String input = obj.next();
+  
      System.out.println(input);
      int number = Integer.parseInt(input); 
      
